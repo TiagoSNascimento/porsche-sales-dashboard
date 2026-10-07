@@ -112,13 +112,13 @@ porsche-sales-dashboard/
 
 Após publicar, substitua este trecho pelo link real:
 
-`https://SEU-USUARIO.github.io/porsche-sales-dashboard/`
+`https://tiagosnascimento.github.io/porsche-sales-dashboard/`
 
 ### Repositório
 
 Substitua pelo endereço real do seu repositório:
 
-`https://github.com/SEU-USUARIO/porsche-sales-dashboard`
+`https://github.com/TiagoSNascimento/porsche-sales-dashboard`
 
 ## 🖼️ Evidências recomendadas para a entrega
 
